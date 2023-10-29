@@ -1,3 +1,5 @@
+## Reference: [Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB](https://www.youtube.com/watch?v=O5cmLDVTgAs&t=18267s)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
